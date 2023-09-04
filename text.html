@@ -1,0 +1,96 @@
+<link rel="stylesheet" href="styles.css">
+<!NOCTYPE html> <head><body>
+  <h1 id="title">Poop Survey Form</h1>
+  <p id="description">Thank you for taking the time to contribute to my fecal data base </p>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+<form id="survey-form">
+  <div class="input-name">
+   <div> <label class="name1" id="name-label">
+      First Name
+    </label></div>
+    <input id="name" placeholder="ex. John" id="first-name" type="text" required>
+  </div>
+
+ <div class="input-element">
+   <div> <label class="email1" id="email-label">
+      Email
+    </label></div>
+    <input id="email" placeholder="ex. smith34@hotmail.com" id="Email" type="email" required>
+  </div>
+  
+  <div class="age">
+    <div><label class="age1" id="number-label">
+      Age
+    </label></div>
+    <input id="number" placeholder="ex. 6" id="age" min="5" max="65" type="Number" required>
+  </div>
+  
+ 
+    <div class="radio">
+      <label>
+        Do you enjoy toilet time?
+      </label>
+      <div>
+      <label for="yes">
+        <input value="value1" class="radio" type="radio" name="radio-select" required> Yes</label></div><div><label f">
+        <input type="radio" value="value1" name="radio-select"> No</label></div></div>
+        
+    
+    <div class="input-element1">
+    <label class="select1" id="select-label">
+      Which best describes your latest stool?
+    </label></div>
+      <div><select class="drop" id="dropdown" required> 
+        <option value="" disabled selected hidden>please choose...</option>
+        <option>pebbles</option>
+        <option>liquid</option>
+        <option>banana</option>
+        <option>pine cone</option>
+        <option>green</option>
+        <option>red</option>  
+       </select>
+  </div>
+    
+    <section class="other">
+      <label two>
+      Foods you eat (select all that apply)
+      </label>
+     
+
+     <label>
+       <input value="value2" class="yup" type="checkbox">
+  Hot cheetos
+  </label>
+  
+    
+     <label>
+       <input value="value2" type="checkbox">
+  Bananas
+  </label>
+
+
+     <label>
+       <input value="value2" type="checkbox">
+  French Fries
+  </label>
+
+  
+     <label>
+       <input value="value2" type="checkbox">
+  Cheese
+  </label>
+
+     <label>
+       <input value="value2" type="checkbox">
+  Almonds
+  </label></div>
+ 
+     <div><label class="textarea1">
+      Comments
+      </label>
+     <div> <textarea class="textarea" type="text" required></textarea></div> 
+  
+ 
+ <button class="button" type="submit" id="submit">Submit</button> </section>
+</form>

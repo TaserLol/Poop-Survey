@@ -1,0 +1,172 @@
+body{background-image: url('https://static.wixstatic.com/media/e44ed4_a32ed54ed1cf4487837e557d8dcb612f~mv2.jpg/v1/fill/w_1000,h_863,al_c,q_85,usm_0.66_1.00_0.01/e44ed4_a32ed54ed1cf4487837e557d8dcb612f~mv2.jpg') ;
+  background-color: #b5651d ;
+    text-align: left ; height: 50vh ; width: 90vw ; margin: auto  ; margin-top: 10px ; 
+  }
+  
+  h1{font-family: Arial, Helvetica, sans; text-align: center; font-size: 55px ; margin-bottom: -15px ; font-weight: 70 }
+  
+  #survey-form {color: white; margin-top: ;
+  background-color: rgba(27, 27, 50, 0.3) ; margin: 0 auto ; width: 80% ; border-radius: 10px ; font-family: 'poppins', sans-serif ; display: flex; flex-direction: column ; justify-content: center ; align-items: center; padding-bottom: 10
+  }
+   p{text-align: center ; font-size: 26px ; font-style: italic ; margin-bottom: 20 ; margin-top: 15 }
+  
+   { margin-left: 30px
+   }
+   .age {padding-bottom: 15 ;  }
+   input{width: }
+  
+   .input-element{padding: 8 }
+  
+   .drop{margin-bottom: 15 ; margin-top: 5; margin-right: 179 }
+  
+   .input-element1{padding-top: 15 ; padding-left: 20 }
+  
+   input[type="text"]{width:300px}
+   input[type="number"]{width:300px}
+   input[type="email"]{width:300px}
+  .input-name{padding-top: 30px }
+  
+  input[type="checkbox"]{margin-right: 180 ; }
+  
+  
+  
+  label {
+    display: block;
+    padding-left: 15px;
+    text-indent: -15px;
+    padding-right: 40 
+  }
+  input[type="checkbox"]{
+    width: 13px;
+    height: 13px;
+    padding-right: ;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden; padd
+  }
+  
+  label[for] {
+    display: block;
+    padding-right: 262 ;
+    text-indent: -15px;padding-top:  }
+  
+    input[type="dropdown"]{
+    width: 13px;
+    height: 13px;
+    padding: ;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -3px;
+    *overflow: hidden;}
+  
+    input[type="dropdown"]{
+    width: 13px;
+    height: 13px;
+    padding-right: ;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+  }
+  
+  label[for] {
+    display: block;
+    padding-right: 262 ;
+    text-indent: -15px;padding-top:  }
+  
+  .radio2{padding-left: }
+  
+    .other{padding-right: 6}
+    
+  
+  
+  
+    input[type="radio"]{
+    width: 13px;
+    height: 13px;
+    padding-right: ; ;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+  }
+  
+  label[for] {
+    display: block;
+    margin-left:   ;
+    text-indent: -15px;padding-top: 4 }
+  
+    input[type="checkbox"]{
+    width: 13px;
+    height: 13px;
+    margin-right:; ;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+  }
+  
+  label[for] {
+    display: block;
+    padding-right: 257 ;
+    text-indent: -15px;padding-bottom:   }
+  
+    .textarea1{margin-top:10 }
+  
+    .input-name{margin-top: -15}
+  
+    .textarea{padding-right:}
+  
+   input[type="checkbox"]{
+    width: 13px;
+    height: 13px;
+    margin-right:; ;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+  }
+  
+  label[two] {
+    display: block;
+    padding-right:  ;
+    text-indent: -15px;padding-bottom: 3   }
+  
+  .textarea{padding-bottom: }
+  
+   li {
+    display: inline-block;
+    font-size: 12px;
+  }
+  
+  .bu {
+    position: relative;
+    top: 190px;
+    left: 4px;
+  }
+  
+  .pseudo2{
+      position: sticky;
+      height: 20px;
+  }
+  
+  .textarea1{padding-bottom: 3}
+  
+  .name1{padding-bottom: 3 ; margin-top: -5}
+  
+  .age1{padding-bottom: 3}
+  
+  .email1{padding-bottom: 3}
+  
+  textarea {
+     resize: none; margin-bottom:  3
+  }
+  
+  .select1{margin-top:}
