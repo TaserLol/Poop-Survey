@@ -6,7 +6,7 @@ body{background-image: url('https://static.wixstatic.com/media/e44ed4_a32ed54ed1
   h1{font-family: Arial, Helvetica, sans; text-align: center; font-size: 55px ; margin-bottom: -15px ; font-weight: 70 }
   
   #survey-form {color: white; margin-top: ;
-  background-color: rgba(27, 27, 50, 0.3) ; margin: 0 auto ; width: 80% ; border-radius: 10px ; font-family: 'poppins', sans-serif ; display: flex; flex-direction: column ; justify-content: center ; align-items: center; padding-bottom: 10
+  background-color: rgba(27, 27, 50, 0.3) ; min-width: 350px ; margin: 0 auto ; width: 80% ; border-radius: 10px ; font-family: 'poppins', sans-serif ; display: flex; flex-direction: column ; justify-content: center ; align-items: center; padding-bottom: 10
   }
    p{text-align: center ; font-size: 26px ; font-style: italic ; margin-bottom: 20 ; margin-top: 15 }
   
